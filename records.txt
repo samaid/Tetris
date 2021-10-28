@@ -1,0 +1,6 @@
+Luka, 35
+Polina, 10
+Sergey, 5
+Rabbit, 4
+Cat, 3
+Dog, 1
